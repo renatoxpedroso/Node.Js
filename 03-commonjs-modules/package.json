@@ -1,0 +1,12 @@
+{
+  "name": "03-commonjs-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renato Pedroso",
+  "license": "ISC",
+  "description": "A project demonstrating CommonJS module usage in Node.js"
+}
