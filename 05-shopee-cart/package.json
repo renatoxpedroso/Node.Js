@@ -1,0 +1,13 @@
+{
+  "name": "05-shoppe-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renato Pedroso",
+  "license": "ISC",
+  "description": "A shopping cart application built with Node.js"
+}
