@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "podcastName": "Episode 1",
+    "episode": "Description for Episode 1",
+    "audioUrl": "https://example.com/audio1.mp3",
+    "categories": ["Technology", "Education"]
+  },
+  {
+    "id": 2,
+    "podcastName": "Episode 2",
+    "episode": "Description for Episode 2",
+    "audioUrl": "https://example.com/audio2.mp3",
+    "categories": ["Technology", "Education"]
+  }
+]
